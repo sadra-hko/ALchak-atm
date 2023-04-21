@@ -1,0 +1,5 @@
+“<؟ php”
+class BlogPost { public $id; public $title; public $post; public $author; public $tags; public $datePosted; }
+class BlogPost {    public $id;    public $title;    public $post;    public $author;    public $tags;     public $datePosted;    function __construct($inId, $inTitle, $inPost, $inAuthorId, $inDatePosted)    {    } }
+
+“؟>”
